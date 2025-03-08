@@ -1,3 +1,12 @@
+
+Uses of chmod command in linux:
+
+https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/
+
+chmod u+s
+
+https://forums.justlinux.com/showthread.php?98125-chmod-u-s
+
 ## Operating system
 
 User mode & kernel mode
