@@ -10,7 +10,7 @@ Uses of chmod command in linux:
 https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/
 
 To set the setuid bit, use the following command:
-- chmod u+s 
+- `chmod u+s` 
 
 https://forums.justlinux.com/showthread.php?98125-chmod-u-s
 
