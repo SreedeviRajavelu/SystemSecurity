@@ -16,7 +16,7 @@ https://forums.justlinux.com/showthread.php?98125-chmod-u-s
 
 The setuid bit: This bit is present for files which have executable permissions. The setuid bit simply indicates that when running the executable, it will set its permissions to that of the user who created it (owner), instead of setting it to the user who launched it. 
 
-# Tcpdump manual
+## Tcpdump manual
 
 https://www.tcpdump.org/manpages/tcpdump.1.html
 
@@ -29,6 +29,9 @@ For example, specifying -z gzip or -z bzip2 will compress each savefile using gz
 Note that tcpdump will run the command in parallel to the capture, using the lowest priority so that this doesn't disturb the capture process.
 
 And in case you would like to use a command that itself takes flags or different arguments, you can always write a shell script that will take the savefile name as the only argument, make the flags & arguments arrangements and execute the command that you want.
+
+## SetUID SetGID Sticky Bits in Linux File Permission
+https://www.geeksforgeeks.org/setuid-setgid-and-sticky-bits-in-linux-file-permissions/
 
 ## Operating system
 
