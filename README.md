@@ -33,6 +33,14 @@ And in case you would like to use a command that itself takes flags or different
 ## SetUID SetGID Sticky Bits in Linux File Permission
 https://www.geeksforgeeks.org/setuid-setgid-and-sticky-bits-in-linux-file-permissions/
 
+How to set the SetUID permission on a file?
+
+To set the SetUID bit on an executable file, use the chmod command with the u+s attribute. For example:
+
+`sudo chmod u+s /path/to/file`
+
+This command will set the SetUID bit on the specified file, allowing it to be executed with the privileges of the file’s owner.
+
 ## Operating system
 
 User mode & kernel mode
