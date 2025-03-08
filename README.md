@@ -1,5 +1,10 @@
 ## Linux Privilege Escalation
 
+There are 3 sets of permissions, 1 each for: 
+- owner
+- members of the file's group
+- everyone else
+
 Uses of chmod command in linux:
 
 https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/
