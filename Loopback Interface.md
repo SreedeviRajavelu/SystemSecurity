@@ -1,4 +1,7 @@
 ### **What is the Loopback Interface?**
+
+https://www.baeldung.com/linux/loopback-lo-device
+
 The **loopback interface** is a virtual network interface that a computer uses to communicate with itself. It is typically represented as **`lo`** in Linux and Unix-based systems.
 
 ### **Key Features:**
